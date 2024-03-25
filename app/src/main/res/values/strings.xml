@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_1_first_project</string>
+    <string name="welcomes_message">Welcome to Your Ultimate Space Organization Companion</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="registration">Registration</string>
+
+</resources>
