@@ -3,5 +3,12 @@
     <string name="welcomes_message">Welcome to Your Ultimate Space Organization Companion</string>
     <string name="enter_your_password">Enter your password</string>
     <string name="registration">Registration</string>
+    <string name="about">Welcome to Space Organization Company! At Space Organization Company, we\'re driven by the boundless potential of space exploration and the desire to push the frontiers of what\'s known and unknown. Our mission is to innovate in the field of space technology, making outer space more accessible, sustainable, and beneficial for humanity.</string>
+    <string name="back">Back</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="about_us">About Us</string>
+    <string name="already_member">Already Member</string>
+    <string name="service">Vår tjänst för Köksorganisation är utformad för att skapa ett effektivt och inbjudande kök.</string>
+    <string name="back2">Back</string>
 
 </resources>

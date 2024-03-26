@@ -20,6 +20,11 @@ class SingInActivity : AppCompatActivity() {
         val userPass: EditText = findViewById(R.id.et_user_pass)
         val buttonRegister: Button = findViewById(R.id.btn_reg)
 
+        buttonRegister.setOnClickListener{
+            startActivity(Intent(this, AboutActivity::class.java))
+
+        }
+
         buttonRegister.setOnClickListener {
             val username = userLogin.text.toString()
             val useremail = userEmail.text.toString()
